@@ -14,3 +14,9 @@ README.md: documento que explica el objetivo y el contenido del proyecto.
 Objetivo
 
 Aprender a usar GitHub para crear repositorios, editar archivos y guardar los cambios.
+
+# Recursos recomendados
+
+- W3Schools: tutoriales y ejemplos prácticos de HTML, CSS y otros lenguajes de programación.
+- MDN Web Docs: documentación y guías para aprender desarrollo web.
+- GitHub Docs: documentación oficial para aprender a utilizar GitHub y gestionar repositorios.
